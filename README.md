@@ -1,4 +1,4 @@
-# [My Material Design Website](https://gosha98.github.io)
+# [My Material Design Website - White](https://gosha98.github.io/white)
 <img src="https://github.com/folgore95/folgore95.github.io/blob/master/welcome.png"/>
 
 ## About
@@ -8,7 +8,7 @@ Every developer should have his personal website. This is mine made with the gui
 If you are on Linux, simply copy and paste this code on the terminal.
 
 ```bash
-git clone https://github.com/folgore95/folgore95.github.io.git
+git clone https://github.com/folgore95/folgore95.github.io.git -b white
 ```
 
 If you are on Windows/Mac click <a href="https://github.com/folgore95/folgore95.github.io/archive/master.zip">here.</a>
