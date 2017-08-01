@@ -24,6 +24,29 @@ a:hover{
 	top:0;
 	background-color:#45484C; /* Change top background color */
 }
+
+.lan {
+    border-radius: 4px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.2);
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    background: #546E7A;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: -1;
+    transition: all ease-in-out 200ms;
+}
+
+.lan:hover {
+    text-decoration: none;
+    box-shadow: 0px 5px 11px 0px rgba(0, 0, 0, 0.17);
+}
+
 .card{
 	width:600px;
 	margin:0 auto;
@@ -176,6 +199,9 @@ footer{
 		top:calc(25% - 30px);
 		right:calc((100% - 550px)/4 - 30px);
 	}
+	.lan {
+	z-index: 10;
+    }
 }
 @media (min-width: 481px) and (max-width: 960px) {
 	.card{
