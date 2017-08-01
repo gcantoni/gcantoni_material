@@ -211,6 +211,9 @@ footer{
 		bottom:2%;
 		right:2%;
 	}
+	.lan {
+        right: 10%;
+    }
 }
 @media (max-width: 480px){
 	.card{
@@ -229,4 +232,7 @@ footer{
 		margin-left: 0px;
 		margin-top: 0px;
 	}
+	.lan {
+        right: 5%;
+    }
 }
