@@ -1,5 +1,5 @@
 # [My Material Design Website](https://gosha98.github.io)
-<img src="https://github.com/folgore95/folgore95.github.io/blob/master/welcome.png"/>
+<img src="https://github.com/folgore95/media/blob/master/materialwebsite.png"/>
 
 ## About
 Every developer should have his personal website. This is mine made with the guidelines of google's material design.
