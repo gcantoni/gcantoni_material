@@ -1,19 +1,18 @@
-# [My Material Design Website](https://gosha98.github.io)
+# [Il mio sito web materiale](https://gosha98.github.io)
 <img src="https://github.com/folgore95/folgore95.github.io/blob/master/welcome.png"/>
 
-## About
-Every developer should have his personal website. This is mine made with the guidelines of google's material design.
-
+## Informazioni
+Ogni sviluppatore dovrebbe avere il suo sito web personale. Questo è il mio creato con le linee guida del naterial design di Google.
 ## Download
-If you are on Linux, simply copy and paste this code on the terminal.
+Se sei su Linux, semplicemente copia e incolla questo codice sul terminale.
 
 ```bash
 git clone https://github.com/folgore95/folgore95.github.io.git
 ```
 
-If you are on Windows/Mac click <a href="https://github.com/folgore95/folgore95.github.io/archive/master.zip">here.</a>
+Se sei su Windows/Mac clicca <a href="https://github.com/folgore95/folgore95.github.io/archive/master.zip">qui.</a>
 
-## License
+## Licenza
 
     MIT License
 
