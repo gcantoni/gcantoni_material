@@ -1,5 +1,6 @@
 # [Il mio sito web materiale](https://folgore95.github.io)
-<img src="https://github.com/folgore95/folgore95.github.io/it/blob/master/welcome.png"/>
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/folgore95/folgore95.github.io/blob/master/LICENSE)
+<img src="https://github.com/folgore95/media/blob/master/materialwebsite.png"/>
 
 ## Informazioni
 Ogni sviluppatore dovrebbe avere il suo sito web personale. Questo è il mio creato con le linee guida del material design di Google.
