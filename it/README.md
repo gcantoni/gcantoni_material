@@ -1,8 +1,8 @@
-# [Il mio sito web materiale](https://gosha98.github.io)
-<img src="https://github.com/folgore95/folgore95.github.io/blob/master/welcome.png"/>
+# [Il mio sito web materiale](https://folgore95.github.io)
+<img src="https://github.com/folgore95/folgore95.github.io/it/blob/master/welcome.png"/>
 
 ## Informazioni
-Ogni sviluppatore dovrebbe avere il suo sito web personale. Questo è il mio creato con le linee guida del naterial design di Google.
+Ogni sviluppatore dovrebbe avere il suo sito web personale. Questo è il mio creato con le linee guida del material design di Google.
 ## Download
 Se sei su Linux, semplicemente copia e incolla questo codice sul terminale.
 
