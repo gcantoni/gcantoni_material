@@ -1,5 +1,4 @@
-# [My Material Design Website](https://folgore95.github.io)
-[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/folgore95/folgore95.github.io/blob/master/LICENSE)
+# [My Material Design Website](https://folgore95.github.io) [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/folgore95/folgore95.github.io/blob/master/LICENSE)
 <img src="https://github.com/folgore95/media/blob/master/materialwebsite.png"/>
 
 ## About
