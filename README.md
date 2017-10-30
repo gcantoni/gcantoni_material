@@ -8,10 +8,10 @@ Every developer should have his personal website. This is mine made with the gui
 If you are on Linux, simply copy and paste this code on the terminal.
 
 ```bash
-git clone https://github.com/folgore95/folgore95.github.io.git
+git clone https://github.com/folgore95/folgore95_material.git
 ```
 
-If you are on Windows/Mac click <a href="https://github.com/folgore95/folgore95.github.io/archive/master.zip">here.</a>
+If you are on Windows/Mac click <a href="https://github.com/folgore95/folgore95_material/archive/master.zip">here.</a>
 
 ## License
 
