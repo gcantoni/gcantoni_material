@@ -11,7 +11,7 @@ If you are on Linux, simply copy and paste this code on the terminal.
 git clone https://github.com/folgore95/gcantoni_material.git
 ```
 
-If you are on Windows/Mac click <a href="https://github.com/folgore95/gcantoni_material/archive/master.zip">here.</a>
+If you are on Windows/Mac click <a href="https://github.com/gcantoni/gcantoni_material/archive/master.zip">here.</a>
 
 ## License
 
